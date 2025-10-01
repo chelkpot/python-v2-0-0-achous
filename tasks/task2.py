@@ -2,8 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-
-x, y, z = map(int, input().split())
+    x,y,z = map(int, input().split())
 price_pencil = 3
 price_pen = price_pencil + 2
 price_marker = price_pen + 7  

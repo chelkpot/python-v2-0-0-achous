@@ -3,7 +3,7 @@
 def solve():
 # Ниже пишите решение задачи
 
-text = input()
+    text = input()
 
     print(text, end=" - Сказала Гермиона!")
 
