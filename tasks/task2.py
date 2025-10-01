@@ -8,7 +8,7 @@ def solve():
     price_marker = price_pen + 7  
     total = (x * price_pencil) + (y * price_pen) + (z * price_marker)
 
-print(total)
+    print(total)
    
 
    
