@@ -3,11 +3,10 @@
 def solve():
 # Ниже пишите решение задачи
     
-     a = input().rstrip("\n")
-    b = input().rstrip("\n")
-    c = input().rstrip("\n")
-
-    print(f"{a}---{b}---{c}")
+a=input()
+    b=input()
+    c=input()
+    print(a,b,c, sep=="---")
 
 
     

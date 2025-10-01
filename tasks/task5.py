@@ -5,7 +5,7 @@ def solve():
 
 text = input()
 
-    print(text, end=" - Сказала Гермиона!\n")
+    print(text, end=" - Сказала Гермиона!")
 
 
    
