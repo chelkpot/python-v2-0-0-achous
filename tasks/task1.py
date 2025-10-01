@@ -4,9 +4,10 @@ def solve():
 # Ниже пишите решение задачи
     
     S = int(input())
-    p = S // 6
-    k = 4 * p
-    s = p
+    x = S // 6
+    p=x
+    k = 4 * x
+    s = x
 
     print(p, k, s)
     
